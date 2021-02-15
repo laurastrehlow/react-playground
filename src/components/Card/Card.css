@@ -1,0 +1,7 @@
+.Card {
+  background: linear-gradient(darkviolet, violet);
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgb(183, 116, 192);
+}

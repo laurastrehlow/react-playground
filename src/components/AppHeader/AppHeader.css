@@ -1,6 +1,7 @@
 .AppHeader {
-  background: var(--color-primary);
-  color: var(--color-white);
+  text-align: center;
+  color: darkviolet;
+  background: linear-gradient(grey, lightgrey);
   padding: 12px;
 }
 
